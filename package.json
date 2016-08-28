@@ -1,0 +1,22 @@
+{
+  "name": "alexa-rutgers-bus",
+  "version": "1.0.0",
+  "description": "Alexa skill for Rutgers Buses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominusbelli/alexa-rutgers-bus.git"
+  },
+  "author": "Carlin Au, Toni Au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominusbelli/alexa-rutgers-bus/issues"
+  },
+  "homepage": "https://github.com/dominusbelli/alexa-rutgers-bus#readme",
+  "dependencies": {
+    "alexa-app": "^2.3.4"
+  }
+}
